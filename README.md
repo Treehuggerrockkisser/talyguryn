@@ -1,4 +1,18 @@
+Want to work with me? Feel free to write on [Telegram](https://t.me/guryn).
+
+<!-- ☕️ `0x47AFb18D356646a7a9E40aA5D9a2E7A9fc5A7444` -->
+
 ## Latest Blog Articles
+
+### Feb 2023
+
+**`👍 Solution`** [Problem with Docker Desktop on macOS 10.15](https://codex.so/docker-desktop-for-macos-10-15)
+
+### Jan 2023
+
+**`✅ Skill`** [Immersive party for a distributed team](https://codex.so/immersive-party-2023)
+
+### Dec 2022
 
 **`✨ Update`** [Icons v0.2.0](https://codex.so/icons-v0-2-0)
 
@@ -9,9 +23,5 @@
 **`💻 Tech`** [SSD upgrade on MacBook Pro 2014](https://codex.so/ssd-upgrade-macbook-pro-2014)
 
 **`✨ Update`** [Action nodejs-package-info v1.1](https://codex.so/nodejs-package-info-v1-1)
-
-**`✅ Skill`** [How I ran Outline VPN on Vultr](https://codex.so/outline-vpn)
-
-**`✅ Skill`** [Automate routine tasks with GitHub Actions](https://codex.so/github-actions-intro-en)
 
 [more articles…](https://codex.so/taly)
